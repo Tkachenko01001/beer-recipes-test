@@ -10,7 +10,7 @@ const App = () => {
         <Route path="recipe/:id" element={<OneRecipe />} />
       </Routes>
     </>
-  );
+  )
 };
 
 export default App;
